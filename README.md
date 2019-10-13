@@ -4,3 +4,5 @@ Rewards in the form of wallet credits are given for putting waste into the trash
 
 The geolocation is recorded every time a user clicks an image and successfully claims a reward which ensures no other user claims reward for the same waste
 
+Dependencies:
+Android Device should have SDK version >Kitkat
